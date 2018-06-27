@@ -3,3 +3,9 @@
 
 
 Feel free to contribute to this repo.Keep examples short, easy and to the point.
+
+
+# To Run these examples, Use command line to get the most
+
+ To compile -->  g++ --std=c++11 <fileName>
+ To run   ----> ./a.out
