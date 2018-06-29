@@ -1,3 +1,6 @@
+/*
+Function overloading i.e function selection (overloaded resolution) is done by the compiler.
+*/
 #include <iostream>
 const double PI = 3.14;
 
